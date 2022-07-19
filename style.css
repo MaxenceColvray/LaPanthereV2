@@ -649,7 +649,7 @@ label,
 .btn{
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #303030!important;
 }
 
 .container {
@@ -1123,7 +1123,7 @@ footer{
 .footer_contact p{
     margin: 0;
     text-align: center;
-    
+    font-weight: 600;
 }
 
 footer .box_icon{
