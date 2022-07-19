@@ -1130,11 +1130,19 @@ footer .box_icon{
     text-align: center;
 }
 
+footer .box_icon a{
+    display: contents;
+}
+
 footer .box_icon i{
     font-size: 35px;
     letter-spacing: 15px;
     color:#404040;
     margin: 20px;
+}
+
+footer .box_icon i:hover{
+    color:white;
 }
 
 .box_portfolio figure{
